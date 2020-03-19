@@ -16,7 +16,7 @@ The script is designed to run in several passes which can all be turned on or of
 3. The third pass will check that the computers and users were added and create csv files for missingcomputers or missing users.
 
 The script can be configured to only assign one user per computer or allow multiple assignments.  It is possible by changing the script settings to just run the AddComputer logic or just run the AddUser logic.  This allows for pre-adding all computers then adding users as desired to match license compliance. 
-Every time the script runs it will create a log folder with the date/time the script was run and a log file that details success/failure of each step plus csv�s for missing computer or users. 
+Every time the script runs it will create a log folder with the date/time the script was run and a log file that details success/failure of each step plus csv's for missing computer or users. 
 
 ## Prerequisites
 
