@@ -118,7 +118,7 @@ The script will log successes and failures.
 
 In this section we will describe the script in more technical detail.  The logic of the script is in the following order:
 
-1. First the SDK is loaded if it�s not already loaded
+1. First the SDK is loaded if it's not already loaded
 
 2. asnp Citrix*
 
