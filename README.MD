@@ -83,7 +83,7 @@ In order to run the script:
 1. Ensure that the Powershell execution policy is set correctly.
 
     ```powershell
-    Set-ExecutionPolicy RemoteSigned
+    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
     ```
 
 2. Create the mapping file.
